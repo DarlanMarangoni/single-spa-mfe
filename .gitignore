@@ -131,3 +131,4 @@ dist
 /.idea/
 /root/.husky/
 /.husky/
+/navbar/.husky/
